@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi 👋, I'm Deepika
+🌟 Passionate AIML Student | AI/ML Enthusiast | Web & Java Developer
+🚀 Always learning, building, and solving real-world problems with code.
 
-<!--
-**deepikaEdiga/deepikaEdiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🎓 B.Tech in Computer Science(Artificial intelligence and machine learning engineer) at Reva University
+💻 Strong in Python | Data Structures & Algorithms | AIML | DBMS | Web Development
+🌱 Currently exploring AI-powered projects & advanced web dev
+🎯 Career Goal: Land a high-paying tech role (40 LPA target)
+🤝 Open to collaborations, GSoC prep, and hackathons
+🛠️ Tech Stack
+Languages: Java, Python, C, SQL, JavaScript
+Web: HTML, CSS, React, Node.js
+Database: MySQL, MongoDB
+Core CS: DSA, DBMS, Algorithms, Computer Organization
+Tools: Git, GitHub, VS Code
+📊 GitHub Stats
+Deepika E
 
-Here are some ideas to get you started:
+📫 Connect With Me
+📧 Email
+💼 LinkedIn
+💻 GitHub
+⭐️ "Code, Learn, Build, Repeat"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
