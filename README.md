@@ -24,15 +24,15 @@
 ---
 
 ## 📊 GitHub Stats  
-https://www.linkedin.com/in/deepika-e-356114294/ 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasaVangala&layout=compact&theme=tokyonight)  
+ 
+ [GitHub](https://github.com/deepikaEdiga)  
 
 ---
 
 ## 📫 Connect With Me  
-- 📧 [vmanasavmanasa33@gmail.com](mailto:vmanasavmanasa33@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vangala-manasa-90765531b/)  
-- 💻 [GitHub](https://github.com/ManasaVangala)  
+- 📧 [de415600@gmail.com](mailto:de415600@gmail.com)  
+- 💼https://www.linkedin.com/in/deepika-e-356114294/  
+- 💻 [GitHub](https://github.com/deepikaEdiga)  
 
 ---
 
